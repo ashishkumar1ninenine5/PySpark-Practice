@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+
+# Spark local data
+metastore_db/
+.derby.log

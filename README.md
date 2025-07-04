@@ -1,5 +1,6 @@
 # PySpark-Practice
-🔥 Absolutely! Here’s a clear, practical plan to turn your PySpark mini LeetCode into a reusable “Codex” project — step by step.
+
+This repository contains a minimal PySpark judge ("Codex") for practicing DataFrame problems locally. See `codex/README.md` for usage.
 
 ⸻
 
